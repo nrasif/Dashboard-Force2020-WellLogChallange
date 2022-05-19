@@ -37,7 +37,7 @@ app.layout = dbc.Container([
     html.Br(),
     dbc.Row([
 
-        dbc.Col(html.H1('FORCE 2020 Well Log Challange Dashboard',
+        dbc.Col(html.H1('FORCE 2020 Well Log Challenge Dashboard',
                         className='text-center mb-4'),
                 width=12)
     ]),
